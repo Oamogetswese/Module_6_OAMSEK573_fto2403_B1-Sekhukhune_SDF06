@@ -79,5 +79,7 @@ Once you've completed and tested your app:
 
 Dive into game development with this project. Enjoy learning, applying your knowledge, and overcoming challenges along the way! You're welcome to take this project to the next level and deploy to Netlify after you have submitted. 
 
+### loom video
 
+https://www.loom.com/share/ba9b2329937c448e99d37825a4ab24bd?sid=76758a2f-9107-42a0-9673-7afe7d4b3a83
 
